@@ -3,6 +3,7 @@
 Me chamo João Pedro, natural do Rio de Janeiro. 
 Concluí o Ensino Superior em ADS na IBMR Barra. Atualmente fazendo cursos Udemy e Alura.
 Apaixonado por tecnologia desde criança, como uma grande inspiração um irmão Engenheiro de Software.
+👊 METAS Quero tirar mais certificações na área e fazer uma pós. 🦾🧠
 
   </a> 
     <a href="https://github.com/@joaopedrodev23">
